@@ -48,7 +48,7 @@ After mapping external local accounts to identities, add external identities or 
 
 ## End user communications
 
-Notify external users about migration timing. Communicate expectations, for instance when external users must stop using a current password to enable authentication by home and corporate credentials. Communications can include email campaigns and announcements.
+Notify external users about migration timing. Communicate expectations, for instance when external users must stop using a current password to enable authentication by home and corporate credentials, or Microsoft account. Communications can include email campaigns and announcements.
 
 <a name='migrate-local-guest-accounts-to-azure-ad-b2b'></a>
 
